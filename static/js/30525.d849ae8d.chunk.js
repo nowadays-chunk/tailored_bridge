@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[30525],{30525:(e,a,n)=>{n.r(a),n.d(a,{default:()=>s});n(65043);var t=n(9100),l=n(70579);const s=()=>(0,l.jsx)(t.A,{module:"financial-management",subModule:"general-ledger",component:"journal-entries",initialFilters:[{column:"status",value:"submitted",active:!0}]})}}]);
+//# sourceMappingURL=30525.d849ae8d.chunk.js.map

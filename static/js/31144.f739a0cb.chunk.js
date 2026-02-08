@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[31144],{31144:(e,n,c)=>{c.r(n),c.d(n,{default:()=>l});c(65043);var i=c(96446),r=c(85865),s=c(70579);const l=()=>(0,s.jsxs)(i.A,{sx:{p:3},children:[(0,s.jsx)(r.A,{variant:"h5",children:"FX Reconciliation"}),(0,s.jsx)(r.A,{children:"Module for reconciling Foreign Currency accounts considering FX differences."})]})}}]);
+//# sourceMappingURL=31144.f739a0cb.chunk.js.map

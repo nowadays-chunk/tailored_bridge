@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[77245],{77245:(s,e,t)=>{t.r(e),t.d(e,{default:()=>u});t(65043);var l=t(96446),a=t(85865),r=t(63336),o=t(74605),c=t(4598),n=t(70579);const u=()=>(0,n.jsxs)(l.A,{sx:{p:3},children:[(0,n.jsx)(a.A,{variant:"h5",gutterBottom:!0,children:"Automation & Rules"}),(0,n.jsxs)(r.A,{sx:{p:3},children:[(0,n.jsx)(o.A,{control:(0,n.jsx)(c.A,{}),label:"Auto-approve payments < $1,000"}),(0,n.jsx)(o.A,{control:(0,n.jsx)(c.A,{}),label:"Auto-post accrual reversals"})]})]})}}]);
+//# sourceMappingURL=77245.c8683fcd.chunk.js.map

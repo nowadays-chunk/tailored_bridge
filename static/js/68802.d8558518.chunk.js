@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[68802],{68802:(e,a,l)=>{l.r(a),l.d(a,{default:()=>u});l(65043);var n=l(9100),s=l(70579);const u=()=>(0,s.jsx)(n.A,{module:"financial-management",subModule:"general-ledger",component:"journal-entries",initialFilters:[{column:"is_reversal",value:"true",active:!0}]})}}]);
+//# sourceMappingURL=68802.d8558518.chunk.js.map
